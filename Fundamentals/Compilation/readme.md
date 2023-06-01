@@ -1,0 +1,1 @@
+- [Anatomy of Cross-Compilation Toolchains](https://youtu.be/Pbt330zuNPc)
